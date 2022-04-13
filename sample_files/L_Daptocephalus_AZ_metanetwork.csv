@@ -1,0 +1,27 @@
+Guild,G,no_prey,no_preds
+Plants accesssible to tetrapods and arthropods,1,0,0
+aquatic macrophytes,1,0,0
+acquatic microphytes,1,0,0
+terrestrial plants accessible to arthropods only,1,0,0
+fish,7,0,0
+very small amphibians,0,0,0
+small amphibians,0,0,0
+medium amphibians,1,0,0
+large amphibians,0,0,0
+very large amphibians,2,0,0
+very small herbivores,4,0,0
+very small carnivores/insectivores,6,0,0
+small herbivores,2,0,0
+small carnivores/insectivores,7,0,0
+medium herbivores,3,0,0
+medium carnivores,4,0,0
+large herbivores,3,0,0
+large carnivores,3,0,0
+very large herbivores,4,0,0
+very large carnivores,2,0,0
+molluscs,1,0,0
+conchostracans,1,0,0
+myriapods,0,0,0
+carnivorous insects,8,0,0
+herbivorous insects,21,0,0
+omnivorous insects,28,0,0
